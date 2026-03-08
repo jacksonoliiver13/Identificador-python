@@ -25,7 +25,7 @@ Quem é essa ?
 	2.	Clone o repositório
 	3.	Execute o arquivo:
 
-Python Identificador.py 
+python identificador.py 
 
 📚 Objetivo do projeto
 
